@@ -1,1 +1,9 @@
-{}
+{
+    "launcher.config.main_use_rules": "Nutzungsregeln",
+    "launcher.config.main_use_rules.1": "Respektieren Sie andere Benutzer.",
+    "launcher.config.main_use_rules.2": "Teilen Sie keine persönlichen Informationen.",
+    "launcher.config.main_use_rules.3": "Verwenden Sie keine unangemessene Sprache.",
+    "launcher.config.main_use_rules.4": "Befolgen Sie die Anweisungen der Moderatoren.",
+    "launcher.config.main_use_rules.accept": "Ich akzeptiere die Nutzungsregeln",
+    "launcher.button.continue": "Weiter"
+}
