@@ -1,8 +1,8 @@
 {
-  "langs":
-  {
-    "de",
-    "en"
-    "addmore"
+  "languages": {
+    "de": "Deutsch",
+    "en": "English",
+    "fr": "Français",
+    "es": "Español"
   }
 }
